@@ -1,0 +1,137 @@
+*{ margin: 0; padding: 0; }
+
+.one{
+    color: rgb(104, 86, 27);
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(204, 190, 149);
+   
+}
+
+.two{
+    color: rgb(145, 108, 146);
+    font-size: 30px;
+    margin: 20px;
+    
+}
+   
+.div{
+    display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+    justify-content:flex-start;
+    flex-wrap: wrap;
+}
+.humayra{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(182, 72, 72);
+    padding: 100px;
+    margin: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.humayra1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(207, 142, 175);
+    padding: 100px;
+    margin: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.humayra2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(204, 190, 149);
+    padding: 100px;
+    margin: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+
+.div1{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content:flex-start;
+    flex-wrap: wrap;
+    }
+
+.two1{
+    color: rgb(38, 52, 92);
+    font-size: 32px;
+    margin: 20px;
+    
+}
+.humayra3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(81, 116, 136);
+    padding: 100px;
+    margin: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+.humayra4{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(118, 100, 119);
+    padding: 100px;
+    margin: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+.humayra5{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(151, 80, 145);
+    padding: 100px;
+    margin: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+.div2{
+    display: flex;
+    flex-direction: row;
+    align-content: flex-end;
+    justify-content:flex-start;
+    flex-wrap: wrap;
+    }
+
+    .two2{
+    color: rgb(38, 52, 92);
+    font-size: 40px;
+    margin: 20px;
+}
+.humayra6{
+    height: 100px;
+    width: 100px;
+    background-color:  rgb(189, 100, 100);
+    padding: 100px;
+    margin: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+.humayra7{
+    height: 100px;
+    width: 100px;
+    background-color:  rgb(167, 63, 63);
+    padding: 100px;
+    margin: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+.humayra8{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(135, 107, 161);
+    padding: 100px;
+    margin: 20px;
+    text-align: center;
+    font-size: 50px;
+}
